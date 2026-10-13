@@ -209,4 +209,4 @@ Micro Flight is available as a full free version for Windows, with all features 
 Don't miss out on the chance to fly high! Download Micro Flight now and take to the skies!
 
 ---
-**Last updated:** 2026-10-12 20:07:26 UTC
+**Last updated:** 2026-10-13 02:25:42 UTC
